@@ -50,12 +50,12 @@ export function Contact() {
               </div>
             ))}
 
-            <Button
+            {/* <Button
               asChild
               className="mt-2 h-auto rounded-2xl bg-violet py-4 font-semibold hover:bg-violet-deep"
             >
               <a href="mailto:uwingeliromeo@gmail.com">Send me a message →</a>
-            </Button>
+            </Button> */}
           </div>
         </div>
       </div>
